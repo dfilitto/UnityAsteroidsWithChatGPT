@@ -1,4 +1,4 @@
-![](https://github.com/dfilitto/Unreal5FPSSurvival/blob/main/Unreal%20Engine%205%20-%20CONSTRUINDO%20%20UM%20FIRST%20PERSON%20SHOOTER%20%20Survival%20horror.jpg)
+![]([https://github.com/dfilitto/Unreal5FPSSurvival/blob/main/Unreal%20Engine%205%20-%20CONSTRUINDO%20%20UM%20FIRST%20PERSON%20SHOOTER%20%20Survival%20horror.jpg](https://github.com/dfilitto/UnityAsteroidsWithChatGPT/blob/main/APRESENTA%C3%87%C3%83O%20DO%20PROJETO.jpg?raw=true))
 # Como utilizar o  ChatGPT para criar jogos - Construindo o jogo Asteróides na Unity - Aula 01
 
 Este curso é projetado para ensinar aos alunos como utilizar o ChatGPT para criar jogos, com foco na construção do jogo Asteróides na Unity. 
