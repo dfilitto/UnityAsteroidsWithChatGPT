@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/dfilitto/UnityAsteroidsWithChatGPT/main/APRESENTA%C3%87%C3%83O%20DO%20PROJETO.jpg)
-# Como utilizar o  ChatGPT para criar jogos - Construindo o jogo Asteróides na Unity - Aula 01
+# Como utilizar o  ChatGPT para criar jogos - Construindo o jogo Asteróides na Unity
 
 Este curso é projetado para ensinar aos alunos como utilizar o ChatGPT para criar jogos, com foco na construção do jogo Asteróides na Unity. 
 
